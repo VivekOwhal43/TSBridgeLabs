@@ -1,1 +1,1 @@
-# Welcome in EmployeeWages Shell Script Program
+# Welcome in Employee Wages Shell Script Program
