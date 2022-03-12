@@ -7,3 +7,4 @@ then
 else
     echo "Employee is Absent"
 fi
+echo "Hello Vivek"
